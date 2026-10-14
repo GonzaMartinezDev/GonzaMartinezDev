@@ -31,6 +31,10 @@ Me interesa convertir problemas cotidianos en herramientas simples: ordenar pedi
 
 **Entender el negocio → definir prioridades → construir, probar y ajustar.**
 
+<p align="center">
+  <img src="./assets/como-encaro-un-proyecto.png" alt="Mi proceso de trabajo: entender el negocio, definir prioridades y construir, probar y ajustar." width="100%">
+</p>
+
 ### Hablemos
 
 ¿Tenés una idea o un proceso que querés mejorar?
