@@ -16,12 +16,16 @@ Me interesa convertir problemas cotidianos en herramientas simples: ordenar pedi
 
 ### Tecnologías y herramientas
 
-![HTML5](https://img.shields.io/badge/HTML5-20352b?style=flat-square&logo=html5&logoColor=d8f373)
-![CSS3](https://img.shields.io/badge/CSS3-20352b?style=flat-square&logo=css&logoColor=d8f373)
-![JavaScript](https://img.shields.io/badge/JavaScript-20352b?style=flat-square&logo=javascript&logoColor=d8f373)
-![Git](https://img.shields.io/badge/Git-20352b?style=flat-square&logo=git&logoColor=d8f373)
-![GitHub](https://img.shields.io/badge/GitHub-20352b?style=flat-square&logo=github&logoColor=d8f373)
-![Vercel](https://img.shields.io/badge/Vercel-20352b?style=flat-square&logo=vercel&logoColor=d8f373)
+![Angular](https://img.shields.io/badge/Angular-5c3273?style=flat-square&logo=angular&logoColor=a6ef42)
+![NestJS](https://img.shields.io/badge/NestJS-5c3273?style=flat-square&logo=nestjs&logoColor=a6ef42)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-5c3273?style=flat-square&logo=postgresql&logoColor=a6ef42)
+
+![HTML5](https://img.shields.io/badge/HTML5-21182b?style=flat-square&logo=html5&logoColor=b17bcc)
+![CSS3](https://img.shields.io/badge/CSS3-21182b?style=flat-square&logo=css&logoColor=b17bcc)
+![JavaScript](https://img.shields.io/badge/JavaScript-21182b?style=flat-square&logo=javascript&logoColor=f7c844)
+![Git](https://img.shields.io/badge/Git-21182b?style=flat-square&logo=git&logoColor=b17bcc)
+![GitHub](https://img.shields.io/badge/GitHub-21182b?style=flat-square&logo=github&logoColor=b17bcc)
+![Vercel](https://img.shields.io/badge/Vercel-21182b?style=flat-square&logo=vercel&logoColor=b17bcc)
 
 ### Cómo encaro un proyecto
 

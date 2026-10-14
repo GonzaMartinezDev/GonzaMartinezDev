@@ -1,25 +1,27 @@
 ﻿<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="titulo descripcion">
   <title id="titulo">Gonzalo Martínez — Comodoro Dev's</title>
-  <desc id="descripcion">Software para negocios reales. Banner en verde oscuro, crema y lima.</desc>
+  <desc id="descripcion">Software para negocios reales. Banner en violeta, negro y verde lima, con acentos amarillos.</desc>
   <defs>
     <pattern id="puntos" width="22" height="22" patternUnits="userSpaceOnUse">
-      <circle cx="1" cy="1" r="1" fill="#657560" opacity="0.4"/>
+      <circle cx="1" cy="1" r="1" fill="#895ca3" opacity="0.4"/>
     </pattern>
   </defs>
-  <rect width="1200" height="350" rx="18" fill="#20352b"/>
+  <rect width="1200" height="350" rx="18" fill="#17131f"/>
+  <path d="M18 0 H690 L555 350 H18 Q0 350 0 332 V18 Q0 0 18 0 Z" fill="#5c3273"/>
+  <path d="M672 0 H710 L575 350 H537 Z" fill="#a6ef42"/>
   <rect x="740" width="460" height="350" fill="url(#puntos)"/>
-  <rect x="48" y="42" width="8" height="22" fill="#d8f373"/>
-  <text x="70" y="58" fill="#d8f373" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">COMODORO DEV'S</text>
-  <text x="44" y="170" fill="#f5f4ee" font-family="Impact, Arial Narrow, Arial, sans-serif" font-size="100" font-weight="900" letter-spacing="-3">GONZALO</text>
-  <text x="48" y="241" fill="#d8f373" font-family="Impact, Arial Narrow, Arial, sans-serif" font-size="66" font-weight="900" letter-spacing="-2">MARTÍNEZ</text>
-  <text x="50" y="295" fill="#c5d0c4" font-family="Arial, Helvetica, sans-serif" font-size="22">Software para negocios reales.</text>
-  <rect x="750" y="70" width="394" height="216" rx="12" fill="#294235" stroke="#657560"/>
-  <circle cx="775" cy="96" r="4" fill="#d8f373"/>
-  <circle cx="790" cy="96" r="4" fill="#829b45"/>
-  <circle cx="805" cy="96" r="4" fill="#657560"/>
-  <path d="M768 114 H1126" stroke="#52634d"/>
-  <text x="777" y="157" fill="#d8f373" font-family="Consolas, monospace" font-size="21">01 / entender</text>
-  <text x="777" y="197" fill="#f5f4ee" font-family="Consolas, monospace" font-size="21">02 / construir</text>
-  <text x="777" y="237" fill="#f5f4ee" font-family="Consolas, monospace" font-size="21">03 / conectar</text>
-  <path d="M1090 220 L1104 234 L1090 248" fill="none" stroke="#d8f373" stroke-width="3"/>
+  <rect x="48" y="42" width="8" height="22" fill="#f7c844"/>
+  <text x="70" y="58" fill="#a6ef42" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="3">COMODORO DEV'S</text>
+  <text x="44" y="170" fill="#f5effa" font-family="Impact, Arial Narrow, Arial, sans-serif" font-size="100" font-weight="900" letter-spacing="-3">GONZALO</text>
+  <text x="48" y="241" fill="#a6ef42" font-family="Impact, Arial Narrow, Arial, sans-serif" font-size="66" font-weight="900" letter-spacing="-2">MARTÍNEZ</text>
+  <text x="50" y="295" fill="#eadcf2" font-family="Arial, Helvetica, sans-serif" font-size="22">Software para negocios reales.</text>
+  <rect x="750" y="70" width="394" height="216" rx="12" fill="#21182b" stroke="#895ca3"/>
+  <circle cx="775" cy="96" r="4" fill="#a6ef42"/>
+  <circle cx="790" cy="96" r="4" fill="#b17bcc"/>
+  <circle cx="805" cy="96" r="4" fill="#f7c844"/>
+  <path d="M768 114 H1126" stroke="#694577"/>
+  <text x="777" y="157" fill="#a6ef42" font-family="Consolas, monospace" font-size="21">01 / entender</text>
+  <text x="777" y="197" fill="#f5effa" font-family="Consolas, monospace" font-size="21">02 / construir</text>
+  <text x="777" y="237" fill="#b17bcc" font-family="Consolas, monospace" font-size="21">03 / conectar</text>
+  <path d="M1090 220 L1104 234 L1090 248" fill="none" stroke="#f7c844" stroke-width="3"/>
 </svg>
